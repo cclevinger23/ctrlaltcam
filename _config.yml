@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Ctrl Alt Cam # the main title
 
-tagline: A website by Cameron Clevinger # it will display as the subtitle
+tagline: A blog by Cameron Clevinger # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A blog about software engineering, Linux, 3D printing, and other topics with hands-on guides for tech enthusiasts, developers, or curious makers.
@@ -36,6 +36,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/cclevinger23 # change to your Twitter homepage
+    - https://github.com/cclevinger23
     - https://gitlab.com/cclevinger23 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
