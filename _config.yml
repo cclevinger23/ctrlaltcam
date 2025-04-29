@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ctrl Alt Cam # the main title
+title: ctrl-alt-cam # the main title
 
 tagline: A blog by Cameron Clevinger # it will display as the subtitle
 
@@ -25,8 +25,8 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ctrlaltcam.com"
 
-gitlab:
-  username: cclevinger23 # change to your Twitter username
+twitter:
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -35,12 +35,13 @@ social:
   email: cameronclevinger@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/cclevinger23 # change to your Twitter homepage
+    - https://www.linkedin.com/in/cameron-clevinger614/
     - https://github.com/cclevinger23
     - https://gitlab.com/cclevinger23 # change to your GitHub homepage
+    # - https://twitter.com/username # change to your Twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - 'https://www.linkedin.com/in/cameron-clevinger614/'
+
 
 # Site Verification Settings
 webmaster_verifications:
@@ -67,7 +68,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: 4a60ce0192e64e94a4d937c4a74ef62f
   fathom:
     id: # fill in your Fathom Site ID
 
@@ -86,7 +87,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode:
+theme_mode: dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url

@@ -4,6 +4,10 @@
   icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/cameron-clevinger614/'
 
+- type: github
+  icon: "fab fa-github"
+  url: "https://github.com/cclevinger23"
+
 - type: gitlab
   icon: "fab fa-gitlab"
   url: "https://gitlab.com/cclevinger23"
