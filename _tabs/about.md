@@ -14,3 +14,8 @@ My projects often focus on making technical concepts more accessible, solving re
 This blog is a place where I share what I’m working on, document things I’ve learned (usually the hard way), and hopefully make life a little easier for others who find themselves asking the same questions I do.
 
 Thanks for stopping by.
+
+---
+
+> Comments, questions, suggestions, or looking for a resume? Feel free to contact me directly at <info@ctrlaltcam.com>
+{: .prompt-info }
